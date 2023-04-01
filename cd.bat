@@ -1,3 +1,3 @@
 @echo off
-node "%~dp0\folderRenamer" %*
+node "%~dp0\app" %*
 pause
